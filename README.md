@@ -15,6 +15,9 @@ This project is a Python tool that scrapes news headlines from a webpage.
 제목: 흰색 SUV만 쫓다 해프닝 끝날 뻔… 피해 학생은 겁질려 도망
 링크: https://n.news.naver.com/mnews/article/001/0015607784?rc=N&ntype=RANKING
 
+## csv 파일 형태로 추출도 가능해요
+
+
 ---
 
 ## 기술 스택
